@@ -7,8 +7,8 @@ We are going to do some work to findout<br/>
 -The county with the highest turnout<br/>
 #Election-Audit Results:#<br/>
 -How many votes were cast in this congressional election?
-         <br/>
-<br/>
+  https://github.com/ramyasnl/Election-Analysis/blob/main/totvotes.jpg       <br/>
+
 -Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 link to q2<br/>
 Which county had the largest number of votes?<br/>
