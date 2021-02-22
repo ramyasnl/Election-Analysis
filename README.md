@@ -14,7 +14,7 @@ https://github.com/ramyasnl/Election-Analysis/blob/main/q2.jpg<br/>
 Which county had the largest number of votes?<br/>
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.<br/>
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?<br/>
-link to ans4qs<br/>
+ https://github.com/ramyasnl/Election-Analysis/blob/main/ans4qs.png  <br/>
 The above link answers all the questions with the results from our program
 #Election-Audit Summary#<br/>
 Largest county turnout to be Denver<br/>
