@@ -9,8 +9,8 @@ We are going to do some work to findout<br/>
 -How many votes were cast in this congressional election?
   https://github.com/ramyasnl/Election-Analysis/blob/main/totvotes.jpg       <br/>
 
--Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-link to q2<br/>
+-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.<br/>
+https://github.com/ramyasnl/Election-Analysis/blob/main/q2.jpg<br/>
 Which county had the largest number of votes?<br/>
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.<br/>
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?<br/>
